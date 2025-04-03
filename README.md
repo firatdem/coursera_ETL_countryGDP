@@ -62,6 +62,6 @@ SELECT `Bank name` FROM Largest_banks LIMIT 5;
 - `Banks.db`: SQLite database containing the `Largest_banks` table.  
 - `code_log.txt`: Log file that records the ETL process steps and timestamps.
 
-## ✍Author
+## Author
 
 This script was developed as part of the Coursera IBM Data Engineer 16 Course path, by Firat Demirbulakli.
